@@ -1,0 +1,55 @@
+.main  {
+     border:  2px lightgray; 
+     width: 170px;
+     margin: 0 auto;    
+}
+.heading {
+
+background-color: lightskyblue;
+width: 33%;
+text-align: center;
+margin: 0 auto;    
+color: white;
+}
+
+
+.result {
+
+    width: 97%;
+    background-color: lightgray;
+    color:black;
+    border-radius: 15px;
+    
+
+}
+
+.clearBtn {
+
+    width: 73%;
+    margin-top: 10px;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+
+.divideBtn {
+    width: 22.5%;
+    margin-top: 10px;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+
+.btn {
+
+width: 37px;
+background-color: lightgray;
+margin: 1px;
+border-radius: 15px;
+}
+
+.halfBtn  {
+
+background-color: lightgray;
+width: 82px;
+border-radius: 15px;
+
+}
